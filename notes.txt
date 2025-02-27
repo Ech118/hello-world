@@ -1,0 +1,22 @@
+This is my notes document in my first respoitory. I will put some usefull vi commands in here:
+
+Command	Description
+vi filename	Open or create a file
+vim filename	Open file in Vim (improved Vi)
+:w	Save (write) changes
+:q	Quit (close file)
+:wq or ZZ	Save and quit
+:q!	Quit without saving
+:w filename	Save file as a new name
+
+
+
+Command	Description
+i	Insert before cursor
+I	Insert at beginning of line
+a	Append after cursor
+A	Append at end of line
+o	Open a new line below
+O	Open a new line above
+Esc	Exit Insert Mode
+
